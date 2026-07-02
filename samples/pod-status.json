@@ -1,0 +1,9 @@
+{
+  "namespace": "production",
+  "pod_name": "payment-api-7f9c8d6b9-x2k9p",
+  "status": "CrashLoopBackOff",
+  "restart_count": 6,
+  "container": "payment-api",
+  "image": "payment-api:v1.4.2",
+  "node": "ip-10-0-12-45.ec2.internal"
+}

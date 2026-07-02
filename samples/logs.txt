@@ -1,0 +1,4 @@
+2026-06-13 10:15:22 ERROR Failed to connect to database
+2026-06-13 10:15:24 ERROR Connection timeout while connecting to postgres-service
+2026-06-13 10:15:27 WARN Retrying database connection
+2026-06-13 10:15:30 ERROR Application startup failed
